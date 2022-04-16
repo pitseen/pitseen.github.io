@@ -98,3 +98,27 @@ openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 yahoo.com, 59480, RESELLER
 admixer.co.kr, 1350, RESELLER
 admixer.co.kr, 1580, RESELLER
+
+#REKLAM UP
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1972, RESELLER
+rubiconproject.com, 23778, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23780, RESELLER, 0bfd66d529a55807
+adingo.jp, 25649, DIRECT
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+appnexus.com, 7044, RESELLER, f5ab79cb980f11d1
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+webeyemob.com, 70080, RESELLER
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
+
+#A4G
+a4g.com,13919, DIRECT
+google.com, pub-1232265399417302, DIRECT
+indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
+media.net, 8CULY277R, RESELLER
+sharethrough.com, Uc8GWHvM, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
